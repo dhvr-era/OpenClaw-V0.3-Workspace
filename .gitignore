@@ -1,0 +1,12 @@
+# Secrets — never commit
+*.age
+*.env
+.secrets*
+secrets*
+
+# OS
+.DS_Store
+Thumbs.db
+
+# Claude internal
+.claude/
