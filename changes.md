@@ -64,6 +64,10 @@
   - node_modules: fresh Linux install on both frontend + backend
   - Frontend: built (Vite, 454KB bundle), served from same origin
   - UFW: port 4002 allowed on tailscale0 only
+- [x] **GitHub sync complete**
+  - Clutch: pushed to `dhvr-era/Agentic_Clutch-A_Project_Management_System_for_AI_Agents` (node_modules purged from history, MANIFEST.md updated)
+  - Workspace: new repo `dhvr-era/OpenClaw-V0.3-Workspace` — CLAUDE.md, efficiency.md, changes.md, openclaw-research.md
+  - VPS SSH key generated + added to GitHub (key: VPS-OpenClaw)
 - [ ] Wire Genie ↔ Clutch (task lifecycle API)
 - [ ] Wire 4Context → OpenClaw budget webhook
 - [ ] Create `ai-standards-audit.md` (6 frameworks)
